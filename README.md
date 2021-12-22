@@ -14,7 +14,8 @@
  Follow the link to view the website.
 
 ## Visuals
-![Portfolio](C:\Users\mchap\OneDrive\Bootcamp\Homework\professional-portfolio\portfolio.png.PNG)
+![Portfolio](./assets/chrome-capture.jpg)  
+![Portfolio](./assets/chrome-capture(1).jpg)
 
 ## FInished Product
 [Finished product](https://mchapm17.github.io/professional-portfolio/)

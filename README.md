@@ -15,7 +15,7 @@
 
 ## Visuals
 ![Portfolio](./assets/chrome-capture.jpg)  
-![Portfolio](./assets/chrome-capture(1).jpg)
+
 
 ## FInished Product
 [Finished product](https://mchapm17.github.io/professional-portfolio/)

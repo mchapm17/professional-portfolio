@@ -69,3 +69,22 @@ ul {
 li {
   margin: 20px;
 }
+
+li.links {
+  justify-content: left;
+}
+
+article {
+  margin: 20px;
+  text-align: center;
+}
+
+h3 {
+  padding: 40px;
+}
+
+h3.project{
+  justify-content: left;
+  padding: 8px;
+  align-items: center;
+}
